@@ -14,3 +14,7 @@
 - Timesheets to display clock-in/clock-out and total hours worked
 - Teams to display status of all team members
 
+## Instructions to run the React App
+
+- npm install
+- npm start
